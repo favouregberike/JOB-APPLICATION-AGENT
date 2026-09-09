@@ -1,0 +1,5 @@
+jobs.db
+*.db
+.env
+__pycache__/
+.streamlit/secrets.toml
